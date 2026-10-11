@@ -1,0 +1,13 @@
+
+Candidate: Sample Python Developer
+
+Skills:
+Python, Django, FastAPI, REST APIs, SQL, PostgreSQL,
+Pandas, Git, GitHub, HTML, CSS
+
+Projects:
+Customer Sales Analytics using Python, SQL and Power BI.
+Movie Recommendation System using Python and Scikit-learn.
+
+Experience:
+Worked on technical support and business operations.
